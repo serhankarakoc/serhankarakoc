@@ -21,7 +21,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/serhankarakoc/serhankarakoc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhankarakoc&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhankarakoc&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Serhan KARAKOÇ's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serhankarakoc&repo=serhankarakoc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<!-- ## 👨‍💻 This week, I spent my time on:
+## 👨‍💻 This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serhankarakoc&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 
